@@ -1,8 +1,8 @@
 {
   "name": "embedbuilder",
   "version": "0.1.0",
-  "homepage": "https://thebastionbot.github.io/embedbuilder",
-  "private": true,
+  "homepage": "https://heilhound.github.io/embedbuilder",
+  "private": false,
   "dependencies": {
     "react": "^16.13.1",
     "react-color": "^2.18.1",
